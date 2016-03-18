@@ -20,283 +20,283 @@
  */
 var questions = [
 	{
-        "What planet was Superman born at?": [
-            "Krypton",
-            "Pluto",
-            "Mars",
-            "Earth"
+        "What city was Madonna born in?": [
+            "Bay City, Michigan",
+            "Detroit, Michigan",
+            "Chicago, Illinois",
+            "Grand Rapids, Michigan"
         ]
     },
     {
-        "What was Superman's Kryptonian name?": [
-            "Kal-El",
-            "Kara",
-            "Jor-El",
-            "Lex"
+        "What was Madonna's full name?": [
+            "Madonna Louise Veronica Ciccone",
+            "Madonna Veronica Ciccone",
+            "Madonna Alexandra Ciccone",
+            "Madonna Victoria Ciccone"
         ]
     },
     {
-        "What is the name of Superman's Kryptonian father?": [
-            "Jor-El",
-            "Kal-El",
-            "Zor-El",
-            "Kara"
+        "What is Madonna's first number one song in the U.S.?": [
+            "Like A Virgin",
+            "Like A Prayer",
+            "Lucky Star",
+            "Holiday"
         ]
     },
     {
-        "What is the name of Superman's alter ego?": [
-            "Clark Kent",
-            "Jimmy Olsen",
-            "Kris Kent",
-            "Pete Ross"
+        "What is Madonna's longest running number one hit in the US?": [
+            "Take A Baow",
+            "Vogue",
+            "Like A Virgin",
+            "Music"
         ]
     },
     {
-        "What is the name of Superman's love interest at the Daily Planet?": [
-            "Lois Lane",
-            "Lana Lang",
-            "Lucy Lane",
-            "Lane Lana"
+        "What is the name of Madonna's first husband?": [
+            "Sean Penn",
+            "Warren Beatty",
+            "Guy Ritchie",
+            "Jellybean Benitez"
         ]
     },
     {
-        "What is the name of Superman's love interest in high school?": [
-            "Lana Lang",
-            "Lois Lane",
-            "Lucy Lane",
-            "Judy White"
+        "What song was Madonna's first Top 20 US hit?": [
+            "Holiday",
+            "Burning Up",
+            "Lucky Star",
+            "Everybody"
         ]
     },
     {
-        "What is the name of Superman's stepfather?": [
-            "Jonathan Kent",
-            "John Kent",
-            "Jeremy Kent",
-            "Jack Kent"
+        "What song was Madonna's first single release in the US?": [
+            "Everybody",
+            "Physical Attraction",
+            "Holiday",
+            "Burning Up"
         ]
     },
     {
-        "What is the name of Superman's stepmother?": [
-            "Martha Kent",
-            "Mary Kent",
-            "Lily Kent",
-            "Susan Kent"
+        "What is the name of Madonna's frequent collaborator who was also the drummer of The Breakfast Club?": [
+            "Stephen Bray",
+            "Dan Gilroy",
+            "Jellybean Benitez",
+            "Mark Kamins"
         ]
     },
     {
-        "What is the name of Superman's arch enemy?": [
-            "Lex Luthor",
-            "Doomsday",
-            "Brainiac",
-            "Bizzaro"
+        "What is the first major film Madonna appeared in playing a nightclub singer?": [
+            "Vision Quest",
+            "Desperately Seeking Susan",
+            "Footloose",
+            "Fame"
         ]
     },
     {
-        "Which town did Superman grew up in?": [
-            "Smallville",
-            "Metropolis",
-            "Pleasantville",
-            "Acropolis"
+        "What is the name of Madonna's first tour?": [
+            "The Virgin Tour",
+            "Holiday Tour",
+            "Who's That Girl Tour",
+            "Blond Ambition"
         ]
     },
     {
-        "What kind of meteorite can kill Superman?": [
-            "Kryptonite",
-            "Plutonite",
-            "Crystal",
-            "Chondrite"
+        "Which Madonna tour was featured in the film Truth or Dare?": [
+            "Blond Ambition",
+            "The Girlie Show",
+            "Who's That Girl",
+            "The Virgin Tour"
         ]
     },
     {
-        "What is the name of the Editor in Chief of the Daily Planet?": [
-            "Perry White",
-            "Pete Ross",
-            "Peter White",
-            "Paul White"
+        "Which Madonna video was inspired by the film Metropolis?": [
+            "Express Yourself",
+            "Vogue",
+            "Borderline",
+            "Cherish"
         ]
     },
     {
-        "What is the name of the photographer of the Daily Planet featured in Superman comics?": [
-            "Jimmy Olsen",
-            "Jack Olsen",
-            "John White",
-            "Perry White"
+        "Which Madonna video showed her dancing in front of three burning crosses?": [
+            "Like A Prayer",
+            "Express Yourself",
+            "Erotica",
+            "Causing a Commotion"
         ]
     },
     {
-        "Which actor played Superman in the seventies and eighties?": [
-            "Christopher Reeve",
-            "George Reeves",
-            "Robert Redford",
-            "James Caan"
+        "Which movie did Madonna appear in where she played for an all girl baseball team?": [
+            "A League Of Their Own",
+            "Body of Evidence",
+            "Desperately Seeking Susan",
+            "Evita"
         ]
     },
     {
-        "Which actor played Superman in the movie Man of Steel?": [
-            "Henry Cavill",
-            "Henry Ford",
-            "Nicolas Cage",
-            "Matt Bomer"
+        "What is the name of Madonna's first children's book?": [
+            "The English Roses",
+            "The Little Prince",
+            "The English Girl",
+            "The Little Lucky Star"
         ]
     },
     {
-        "Which actor first played Superboy in the tv series Superboy from the eighties and nineties?": [
-            "John Haymes Newton",
-            "Gerard Christopher",
-            "Dean Cain",
-            "Tom Welling"
+        "What is the name of the X rated coffee table book that Madonna made?": [
+            "Sex",
+            "Erotica",
+            "Truth or Dare",
+            "The Virgin Diaries"
         ]
     },
     {
-        "What is the name of the director who made Superman The Movie in the seventies?": [
-            "Richard Donner",
-            "Alexander Salkind",
-            "Steven Spielberg",
-            "Richard Lester"
+        "What is the name of the character that Madonna played in the movie Dick Tracy?": [
+            "Breathless Mahoney",
+            "Jodie Smith",
+            "Jessica Rabbit",
+            "Blondie"
         ]
     },
     {
-        "Which actress played Lois Lane in the tv series Lois and Clark: The New Adventures of Superman?": [
-            "Teri Hatcher",
-            "Courtney Cox",
-            "Jennifer Anniston",
-            "Stacy Haiduk"
+        "Which song did Madonna sing in her first performance at the Oscars?": [
+            "Sooner or Later",
+            "You Must Love Me",
+            "Don't Cry For Me Argentina",
+            "Frozen"
         ]
     },
     {
-        "Which actor played Superman in the tv series Lois and Clark: The New Adventures of Superman?": [
-            "Dean Cain",
-            "John Haymes Newton",
-            "Brandon Routh",
-            "Christopher Reeve"
+        "Which tv show did Madonna declare that she wanted to rule the world?": [
+            "American Bandstand",
+            "Soul Train",
+            "The Dance Show",
+            "Solid Gold"
         ]
     },
     {
-        "Which actress played Lois Lane in Superman The Movie from the seventies?": [
-            "Margot Kidder",
-            "Noel Neill",
-            "Kate Bosworth",
-            "Anne Archer"
+        "Which movie did Madonna star in opposite Rosanna Arquette?": [
+            "Desperately Seeking Susan",
+            "Vision Quest",
+            "A League Of Their Own",
+            "Body Of Evidence"
         ]
     },
     {
-        "Which actor played Jor-El in Superman The Movie from the seventies?": [
-            "Marlon Brando",
-            "Al Pacino",
-            "Robert Redford",
-            "James Caan"
+        "Which song became Madonna's first ballad to hit number one in the US?": [
+            "Crazy For You",
+            "Live To Tell",
+            "This Used To Be My Playground",
+            "Take A Baow"
         ]
     },
     {
-        "Which actor played Lex Luthor in Superman The Movie from the seventies?": [
-            "Gene Hackman",
-            "Al Pacino",
-            "Marlon Brando",
-            "Robert DeNiro"
+        "What album gave Madonna her first musical Grammy win for Best Pop Album?": [
+            "Ray Of Light",
+            "Evita",
+            "Music",
+            "Confessions on the Dance floor"
         ]
     },
     {
-        "What is the name of the musical composer who wrote the Superman theme from the seventies?": [
-            "John Williams",
-            "John Barry",
-            "Quincy Jones",
-            "David Foster"
+        "What album did Madonna dedicate to Sean Penn?": [
+            "True Blue",
+            "Like A Prayer",
+            "Like A Virgin",
+            "Madonna"
         ]
     },
     {
-        "What is the name of the prison dimension where Kryptonian criminals were incarcerated?": [
-            "Phantom Zone",
-            "Twilight Zone",
-            "Krypton Zone",
-            "Prison Zone"
+        "Which movie did Guy Ritchie direct Madonna in?": [
+            "Swept Away",
+            "Lock, Stock and Barrel",
+            "Evita",
+            "Body of Evidence"
         ]
     },
     {
-        "In what year did Superman originally appear in the Action Comics number one?": [
-            "Nineteen Thirty Eight",
-            "Nineteen Twenty Eight",
-            "Nineteen Forty One",
-            "Nineteen Twenty Nine"
+        "What is the name of the movie that Madonna appeared in along side Sean Penn?": [
+            "Shanghai Surprise",
+            "True Blue",
+            "Who's That Girl",
+            "Vision Quest"
         ]
     },
     {
-        "In what year was Superman The Movie released?": [
-            "Nineteen Seventy Eight",
-            "Nineteen Seventy Five",
-            "Nineteen Eighty",
-            "Nineteen Eighty One"
+        "In what year was the album Ray of Light released?": [
+            "Nineteen Ninety Seven",
+            "Nineteen Ninety Five",
+            "Nineteen Ninety Eight",
+            "Nineteen Eighty Nine"
         ]
     },
     {
-        "What US city was used as location for Metropolis in Superman The Movie?": [
-            "New York City",
-            "Los Angeles",
-            "Chicago",
-            "Boston"
+        "In what movie was the song I'll Remember featured in?": [
+            "With Honors",
+            "A League Of Their Own",
+            "Evita",
+            "Vision Quest"
         ]
     },
     {
-        "Which comic publication owns the Superman trademark?": [
-            "DC Comics",
-            "Marvel Comics",
-            "Seigal and Shuster Publication",
-            "Gotham Comics"
+        "Which movie did Madonna appear in with Rupert Everrett?": [
+            "The Next Best Thing",
+            "My Best Friend's Wedding",
+            "Dangerous Game",
+            "Evita"
         ]
     },
     {
-        "Which actor played Superman in the fifties tv series Adventures of Superman?": [
-            "George Reeves",
-            "Jim Reeves",
-            "Buster Crabb",
-            "Christopher Reeve"
+        "Which actor played along side Madonna in the movie Body Of Evidence?": [
+            "William Dafoe",
+            "Antonio Bandaras",
+            "Warren Beatty",
+            "Griffin Dunne"
         ]
     },
     {
-        "What is the name of Superman's pet dog?": [
-            "Krypto",
-            "Beppo",
-            "Proty",
-            "Streaky"
+        "What is the name of Madonna's first greatest hits album?": [
+            "Immaculate Collection",
+            "Something To Remember",
+            "GHV two",
+            "Madonna Greatest Hits Collection"
         ]
     },
     {
-        "What is the name of Superman's cousin on Earth?": [
-            "Supergirl",
-            "Zor El",
-            "General Zod",
-            "Jor El"
+        "What is the name of the James Bond film where Madonna had a cameo?": [
+            "Die Another Day",
+            "Living Daylights",
+            "Spectre",
+            "You Only Live Once"
         ]
     },
     {
-        "What is the name of Superman's Kryptonian mother?": [
-            "Lara",
-            "Kal-El",
-            "Zara",
-            "Martha Kent"
+        "What is the name of Madonna's mother?": [
+            "Madonna",
+            "Veronica",
+            "Louise",
+            "Mary"
         ]
     },
     {
-        "What is the name of the newspaper that Clark Kent works for?": [
-            "Daily Planet",
-            "Daily Post",
-            "Metropolis Tribune",
-            "Daily Metropolis"
+        "Which director directed the videos Express Yourself and Vogue?": [
+            "David Fincher",
+            "Mary Lambert",
+            "Michael Haussman",
+            "Jonas Akerlund"
         ]
     },
     {
-        "What is the name of Superman's home in the North Pole?": [
-            "Fortress of Solitude",
-            "Fortress of Superman",
-            "Fortress of Kal El",
-            "Fortress of Krypton"
+        "What is the Broadway show that Madonna starred in?": [
+            "Speed The Plow",
+            "Bloodhounds of Broadway",
+            "Evita",
+            "Mameth"
         ]
     },
     {
-        "What is the name of city that Superman is protecting?": [
-            "Metropolis",
-            "Central City",
-            "Gotham City",
-            "Argo City"
+        "Which Christmas song was recorded by Madonna?": [
+            "Santa Baby",
+            "Rock Around The Christmas Tree",
+            "Have Yourself A Merry Christmas",
+            "Little Drummer Boy"
         ]
     }
 ];
@@ -312,7 +312,7 @@ exports.handler = function (event, context) {
          * prevent someone else from configuring a skill that sends requests to this function.
          */
 		 
-     if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.dd5f668b-0576-49b0-9d5c-d3ed764e5b02") {
+     if (event.session.application.applicationId !== "amzn1.echo-sdk-ams.app.7a177e9d-4dd2-4697-9cba-6fb820354a3c") {
          context.fail("Invalid Application ID");
       }
 
@@ -409,8 +409,8 @@ var ANSWER_COUNT = 4,
 
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
-        cardTitle = "Superman Trivia",
-        speechOutput = "Superman Trivia. I will ask you " + GAME_LENGTH.toString() 
+        cardTitle = "Madonna Trivia",
+        speechOutput = "Madonna Trivia. I will ask you " + GAME_LENGTH.toString() 
             + " questions, try to get as many right as you can. Just say the number of the answer. Let's begin.",
         shouldEndSession = false,
 
@@ -472,7 +472,7 @@ function populateRoundAnswers(gameQuestions, index, correctAnswer) {
 }
 
 function handleAnswerRequest(intent, session, callback) {
-    var cardTitle = "Superman Trivia",
+    var cardTitle = "Madonna Trivia",
         speechOutput = "";
 
     var answerSlot = intent.slots.Answer;
